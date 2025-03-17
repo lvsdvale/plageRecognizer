@@ -1,0 +1,217 @@
+{
+    "Abacaxi (Pineapple)": {
+        "Broca (Pineapple Fruit Borer)": 0,
+        "Fusariose (Fusariose)": 1,
+        "Podridão (Black Rot)": 2
+    },
+    "Algodão (Cotton)": {
+        "Fusariose (Fusarium Wilt)": 0,
+        "Mancha de Mirotecio (Myrothecium leaf spot)": 1,
+        "Mela (Soreshin)": 2,
+        "Ramularia (Areolate Mildew)": 3
+    },
+    "Arroz (Rice)": {
+        "Brusone (Rice Blast)": 0,
+        "Escaldadura (Leaf Scald)": 1
+    },
+    "Café (Coffee)": {
+        "BichoMineiro (Leaf Miner)": 0,
+        "Cercospora-Ferrugem (Cercospora Leaf Spot and Rust)": 1,
+        "Cercosporiose (Cercospora Leaf Spot)": 2,
+        "Ferrugem (Rust)": 3,
+        "Mancha Aureolada (Bacterial Blight)": 4,
+        "Mancha Mantegosa (Blister Spot)": 5,
+        "Phoma (Brown leaf spot)": 6,
+        "QueimaFio (Pellicularia koleroga)": 7,
+        "Rizoctoniose (Damping Off)": 8,
+        "Saudavel (Healthy)": 9
+    },
+    "Cajueiro (Cashew Tree)": {
+        "Alga (Algae)": 0,
+        "Antracnose (Anthracnose)": 1,
+        "Larva (Worm)": 2,
+        "Mancha Angular (Angular Leaf Spot)": 3,
+        "Mofo Preto (Black Mould)": 4,
+        "Oidio (Powdery Mildew)": 5,
+        "Resinose (Gummosis)": 6,
+        "Sclerotium (Seedling Blight)": 7,
+        "Seca dos Ponteiros": 8
+    },
+    "Cana (Sugarcane)": {
+        "Ferrugem (Rust)": 0,
+        "Mancha Anelar (Ring Spot)": 1,
+        "Mancha Anelar e Mosca Branca (Ring Spot and White Fly)": 2,
+        "Podridao Vermelha (Red Stripe)": 3,
+        "Saudavel (Healthy)": 4
+    },
+    "Citros (Citrus)": {
+        "Alga (Algae)": 0,
+        "Alternaria (Alternaria brown spot)": 1,
+        "Cancro (Citrus canker)": 2,
+        "Clorose (Citrus variegated chlorosis)": 3,
+        "Deficiencia Nutricional (Nutritional Deficiency)": 4,
+        "Feltro (Felt)": 5,
+        "Fumagina (Sooty Mold)": 6,
+        "Leprose (Leprosis)": 7,
+        "Mancha Aureolada (Halo Blight)": 8,
+        "Mancha Graxa (Citrus Greasy Spot)": 9,
+        "Mancha Preta (Black Spot)": 10,
+        "Mosaico (Mosaic)": 11,
+        "Penicillium (Penicillium)": 12,
+        "Podridao Floral (Postbloom fruit drop of citrus)": 13,
+        "Queima Fio (White-Thread Blight)": 14,
+        "Sadia (Healthy)": 15,
+        "Verrugose (Scab)": 16
+    },
+    "Coqueiro (Coconut Tree)": {
+        "Acaro Mancha Longitudinal (Steneotarsonemus furcatus)": 0,
+        "Acaro Necrose (Aceria guerreronis)": 1,
+        "Ataque Lagarta (Caterpillar damage)": 2,
+        "Cochonilha (Coconut scale)": 3,
+        "Fitotoxidez (Phytotoxicity)": 4,
+        "Fumagina (Sooty mold)": 5,
+        "Helmintosporiose (Dreschslera incurvata)": 6,
+        "Lixa Grande (Lixa Grande)": 7,
+        "Lixa Pequena (Lixa pequena)": 8,
+        "Lixa grande e pequena (Lixa grande and lixa pequena)": 9,
+        "Lixa pequena e queima (Lixa pequena and coconut leaf blight)": 10,
+        "Mancha Cylindrocladium (Cylindrocladium leaf spot)": 11,
+        "Mosca Branca (Whitefly)": 12,
+        "Podridao Lasiodiplodia (Coconut rot)": 13,
+        "Queda Prematura do Fruto (Premature Fruit Drop)": 14,
+        "Queima Folhas (Coconut leaf blight)": 15,
+        "Resinose (Stem bleeding)": 16
+    },
+    "Couve (Cabbage)": {
+        "Mancha de Alternaria (Alternaria leaf spot)": 0,
+        "Oidio (Powdery mildew)": 1,
+        "Saudavel (Healthy)": 2
+    },
+    "Cupuacu (Cupuacu)": {
+        "Podridao (Lasiodiplodia Rot)": 0,
+        "Vassoura (Witches broom)": 1
+    },
+    "Feijao (Dry bean)": {
+        "Antracnose (Anthracnose)": 0,
+        "Cercosporiose (Cercospora leaf spot)": 1,
+        "Cowpea Mild Mottle Virus (Cowpea Mild Mottle Virus)": 2,
+        "Crestamento Bacteriano (Common bacterial blight)": 3,
+        "Ferrugem (Rust)": 4,
+        "Fitotoxidez (Phytotoxicity)": 5,
+        "Lagarta Enroladeira (Hedylepta indicata)": 6,
+        "Mancha Alvo (Target leaf spot)": 7,
+        "Mancha Bacteriana (Bacterial spot)": 8,
+        "Mela (Web blight)": 9,
+        "Oidio (Powdery mildew)": 10,
+        "Podridao Cinzenta (Charcoal rot)": 11,
+        "Saudavel (Healthy)": 12,
+        "Virus Mosaico Dourado (Bean golden mosaic)": 13
+    },
+    "Mamao (Papaya)": {
+        "Antracnose (Anthracnose)": 0,
+        "Mosaico (Mosaic virus)": 1,
+        "Variola (Smallpox)": 2
+    },
+    "Mandioca (Cassava)": {
+        "Acaro (Green mite)": 0,
+        "Antracnose (Anthracnose)": 1,
+        "Bacteriose (Bacterial blight)": 2,
+        "Mancha Branca (White leaf spot)": 3,
+        "Mancha Branca e Parda (White leaf spot and Brown leaf spot)": 4,
+        "Mancha Parda (Brown leaf spot)": 5,
+        "Mosaico Comum (Cassava common mosaic)": 6,
+        "Mosaico Nervuras (Cassava vein mosaic)": 7,
+        "Mosca Galhas (Leaf galls)": 8,
+        "Oidio (Powdery mildew)": 9,
+        "Podridao raizes (Root rot)": 10,
+        "Queima Folhas (Blight leaf spot)": 11,
+        "Saudavel (Healthy)": 12
+    },
+    "Maracuja (Passion Fruit)": {
+        "Alternaria (Brown spot)": 0,
+        "Antracnose (Anthracnose)": 1,
+        "Cercosporiose (Cercospora leaf spot)": 2,
+        "Cladosporiose (Scab)": 3,
+        "Fusariose (Fusariosis)": 4,
+        "Lagarta (Dione juno juno)": 5,
+        "Mancha Bacteriana (Bacterial spot)": 6,
+        "Mosaico (Mosaic virus)": 7,
+        "Podridao (Base rot)": 8,
+        "Senescencia (Senescence)": 9,
+        "Septoriose (Septoria spot)": 10,
+        "Virus Endurecimento (Woodiness virus)": 11
+    },
+    "Meloeiro (Melon)": {
+        "Mancha Aquosa (Bacterial fruit blotch)": 0,
+        "Mosaico (Mosaic)": 1,
+        "Nematoide (Nematode)": 2,
+        "Oidio (Powdery mildew)": 3
+    },
+    "Milho (Corn)": {
+        "Antracnose (Anthracnose)": 0,
+        "Enfezamento (Bushy stunt)": 1,
+        "Ferrugem_Branca (Tropical rust)": 2,
+        "Ferrugem_Polissora (Southern corn rust)": 3,
+        "Lixa (Scab)": 4,
+        "Mancha_Bipolaris (Southern corn leaf blight)": 5,
+        "Mancha_Branca (Phaeosphaeria Leaf Spot)": 6,
+        "Mancha_Diplodia (Diplodia leaf streak)": 7,
+        "Mancha_Physoderma (Physoderma brown spot)": 8,
+        "Mancha_Turcicum (Northern Leaf Blight)": 9
+    },
+    "Palma de Oleo (Oil Palm)": {
+        "Anel Vermelho (Red ring)": 0,
+        "Antracnose (Anthracnose)": 1,
+        "Desconhecido (Unknown)": 2,
+        "Fusarium (Fusarium)": 3,
+        "Ilhas Necroticas (Necrotic spots)": 4,
+        "Mancha Curvularia (Curvularia leaf spot)": 5,
+        "Mildio Negro (Black sooty mold)": 6,
+        "Podridão de Thielaviopsis (Thielaviopsis rot)": 7
+    },
+    "Pimenta do Reino (Black Pepper)": {
+        "Antracnose (Anthracnose)": 0,
+        "Murcha Amarela (Yellow wilt)": 1,
+        "Podridao Raizes (Phytophthora Foot Rot)": 2,
+        "Queima Fio (White-thread blight)": 3,
+        "Saudavel (Healthy)": 4
+    },
+    "Soja (Soybean)": {
+        "Antracnose (Anthracnose)": 0,
+        "Crestamento Bacteriano (Bacterial blight)": 1,
+        "Crestamento Foliar Cercospora (Cercospora blight)": 2,
+        "Desconhecido (Unknown)": 3,
+        "Falso Carvao (Charcoal Rot)": 4,
+        "Ferrugem (Rust)": 5,
+        "Ferrugem-Mancha Alvo (Rust and target spot)": 6,
+        "Fito de cobre (Copper Phytotoxicity)": 7,
+        "Folha Carijo (Soybean Mosaic Virus)": 8,
+        "Mancha Alvo (Southern blight)": 9,
+        "Mancha de Mirotecio (Myrothecium leaf spot)": 10,
+        "Mela (Rhizoctonia aerial blight)": 11,
+        "Mildio (Downy mildew)": 12,
+        "Murcha Esclerocio (Southern blight)": 13,
+        "Oidio (Powdery mildew)": 14,
+        "Oidio-Ferrugem (Powdery mildew and Rust)": 15,
+        "Podridao Phytophora (Phytophora rot)": 16,
+        "Saudavel (Healthy)": 17,
+        "Septoria (Brown Spot)": 18
+    },
+    "Trigo (Wheat)": {
+        "Brusone (Wheat blast)": 0,
+        "Ferrugem (Rust)": 1,
+        "Mancha Amarela (Tan spot)": 2,
+        "Oidio (Powdery mildew)": 3,
+        "Sadia (Healthy)": 4
+    },
+    "Videira (Grapevine)": {
+        "Antracnose (Anthracnose)": 0,
+        "Cancro Bacteriano (Bacterial canker)": 1,
+        "Ferrugem (Rust)": 2,
+        "Mancha Folhas (Isariopsis leaf spot)": 3,
+        "Mildio (Downy Mildew)": 4,
+        "Oidio (Powdery Mildew)": 5,
+        "Sadia (Healthy)": 6,
+        "Virus (Grapevine fanleaf virus)": 7
+    }
+}
